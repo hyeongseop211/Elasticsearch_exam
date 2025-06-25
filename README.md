@@ -21,7 +21,10 @@ Flask, MySQL, Docker를 활용한 할 일 관리 웹페이지입니다.
 ## 🚀 실행 방법
 
 ```bash
-# 1. Docker 컨테이너 빌드 및 실행
+# 1. 프로젝트 폴더로 이동
+cd 폴더경로
+
+# 2. Docker 컨테이너 빌드 및 실행
 docker-compose up --build
 ```
 
